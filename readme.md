@@ -1,7 +1,7 @@
 # NeuroSole – Embedded Firmware for Closed-Loop TENS System
 
 **Author:** Jonas Schröder  
-**Affiliations:** ETH Zurich – Neural Engineering Lab · TUM  
+**Affiliations:** ETH Zurich – NeuroEngineering Lab · TUM  
 **Master Thesis Project, 2024**
 
 ---
