@@ -10,7 +10,7 @@
 
 **NeuroSole** is a closed-loop **wearable neuromodulation system** for the non-invasive treatment of **diabetic peripheral neuropathy (DPN)**. It delivers synchronized **transcutaneous electrical nerve stimulation (TENS)** based on **gait phase detection** and real-time pressure feedback.
 
-This repository contains all firmware components, configuration files, and scripts used in the development of the NeuroSole embedded system, implemented and tested as part of my Master's thesis using **Simplicity Studio 5** and the **Gecko SDK 4.4.0**.
+This repository contains all firmware components, configuration files, and scripts used in the development of the NeuroSole system, implemented and tested as part of my Master's thesis using **Simplicity Studio 5** and the **Gecko SDK 4.4.0**.
 
 ---
 
