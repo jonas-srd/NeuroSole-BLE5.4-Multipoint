@@ -1,0 +1,28 @@
+# === IDE & Build Tool Settings ===
+.pdm/
+.settings/
+autogen/
+config/
+gecko_sdk_*/
+GNU ARM*/
+
+# === Eclipse Project Metadata ===
+.projectcheck­sums
+.projectlinkstore
+
+# === Build Files ===
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# === Backup & Temp Files ===
+*~
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
